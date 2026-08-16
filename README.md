@@ -1,6 +1,2 @@
-# Staff Web App
-Run:
-1. npm install
-2. npm run dev
-
-This is the frontend prototype. Login accepts any Staff ID/password. Backend/FastAPI/database integration can be connected next.
+# intelligent-queue-management-system
+AI-powered queue management system for real-time monitoring, prediction, and staff optimization.

@@ -1,0 +1,13 @@
+Admin/node_modules
+Admin/package-lock.json
+Admin/package.json
+
+backend/_pycache_
+backend/.venu
+backend/.vscode
+
+staffapp/node_modules
+staffapp/package-lock.json
+staffapp/package.json
+
+intelligent-queue-management-system/package-lock.json
